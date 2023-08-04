@@ -3,7 +3,7 @@
 >
 >Run the exe file to play
 
-<h2>program example</h2>
+<h4>program example</h4>
 
 <div>
   <ul>
