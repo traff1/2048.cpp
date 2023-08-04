@@ -1,6 +1,7 @@
 # 2048.cpp
 >Terminal version of the game "2048"
->>Run the exe file to play
+>
+>Run the exe file to play
 
 <h2>program example</h2>
 
