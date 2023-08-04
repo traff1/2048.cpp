@@ -3,5 +3,5 @@
 >
 >Run the exe file to play
 
-<h3>program example :video_game: </h3>
+program example :video_game:
 <img src="/images/gameplay.jpg">
