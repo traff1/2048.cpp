@@ -2,9 +2,9 @@
 >Terminal version of the game "2048"
 
 <div>
-  <li list-style-type: none;>
-    <ul><img src="images/gameplay.jpg"></ul>
-    <ul><img src="images/won.jpg"></ul>
-    <ul><img src="images/lost.jpg"></ul>
-  </li>
+  <ul list-style-type: none;>
+    <li><img src="images/gameplay.jpg"></li>
+    <li><img src="images/won.jpg"></li>
+    <li><img src="images/lost.jpg"></li>
+  </ul>
 </div>
