@@ -5,4 +5,3 @@
 
 <h3>program example</h3>
 
-<img src="images/lost.jpg">
