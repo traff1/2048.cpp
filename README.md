@@ -4,4 +4,4 @@
 >Run the exe file to play
 
 <h3>program example</h3>
-
+<img src="/images/gameplay.jpg">
