@@ -1,6 +1,8 @@
 # 2048.cpp
 >Terminal version of the game "2048"
 
+<h2>program example</h2>
+
 <div>
   <ul>
     <li list-style-type: none;><img src="images/gameplay.jpg"></li>
