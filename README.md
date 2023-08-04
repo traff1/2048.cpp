@@ -7,7 +7,7 @@
 
 <div>
   <ul>
-    <li list-style-type: none;><img src="images/gameplay.jpg"></li>
+    <li width = "200px" ><img src="images/gameplay.jpg"></li>
     <li list-style-type: none;><img src="images/won.jpg"></li>
     <li list-style-type: none;><img src="images/lost.jpg"></li>
   </ul>
